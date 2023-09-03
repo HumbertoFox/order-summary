@@ -7,8 +7,6 @@
     body .main .section-card {
         width: 327px;
         gap: 32px;
-        border-radius: 20px;
-        font-family: 'Red Hat Display', sans-serif;
     }
     body .main .section-card .section-informat {
         padding: 0 25px;
