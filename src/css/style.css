@@ -9,11 +9,10 @@ body .main {
     display: flex;
     flex-direction: column;
     width: 1440px;
-    height: 800px;
+    height: 100vh;
     background: url(../images/pattern-background-desktop.svg) no-repeat;
     align-items: center;
     justify-content: center;
-    box-shadow: 0 5px 80px hsl(220, 15%, 55%);
 }
 body .main .section-card {
     display: flex;
